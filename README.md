@@ -1,6 +1,6 @@
 # Projeto ERP — Clínica Odontológica Sorriso Pleno*
 
-> *Nome fictício sugerido
+> *Clínica Odontológica Sorriso Pleno
 
 ## 1. Identificação da equipe
 - Dentista
