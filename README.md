@@ -417,7 +417,7 @@ Com elas, o modelo passa a ter **17 entidades** (12 do negócio e 5 associativas
 16. **PROCEDIMENTO — USA — MATERIAL** ⚠️N:N *(requisito "dar baixa automática no estoque ao registrar um procedimento": cada procedimento tem uma lista padrão de materiais)*
 17. **USUÁRIO — REPRESENTA — PROFISSIONAL** *(requisitos não funcionais: login e acesso por perfil; quando o usuário é o dentista, a conta de acesso representa o profissional)*
 
-> ⚠️N:N (8, 10, 11, 14 e 16) = relacionamento que deve gerar uma entidade associativa com atributos próprios (ex.: ATENDIMENTO–PROCEDIMENTO pode ter "valor_cobrado_no_atendimento"; CONVÊNIO–PROCEDIMENTO pode ter "percentual_cobertura") — a detalhar na Etapa 15 (Dicionário de dados).
+> ⚠️N:N (8, 10, 11, 14 e 16) = relacionamento que deve gerar uma entidade associativa com atributos próprios — a detalhar na Etapa 15 (Dicionário de dados).
 
 ## 14. Cardinalidades
 
